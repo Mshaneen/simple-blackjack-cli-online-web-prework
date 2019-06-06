@@ -53,6 +53,8 @@ end
 #####################################################
 
 def runner
-  Welcome
+  welcome 
+  sleep 0.75
+  
 end
     
