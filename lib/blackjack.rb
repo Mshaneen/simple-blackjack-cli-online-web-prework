@@ -30,8 +30,8 @@ def initial_round
   return card_total
 end
 
-def hit? (car_user)
-  # code hit? here
+def hit? (card_total)
+  
 end
 
 def invalid_command
